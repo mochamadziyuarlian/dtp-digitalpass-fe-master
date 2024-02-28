@@ -1,0 +1,21 @@
+.card-base {
+    margin-bottom: 24px;
+}
+
+.card-base .section-label {
+    font-weight: 600;
+    font-size: 18px;
+    color: #3B3D39;
+    
+    margin-bottom: 24px;
+}
+
+.card-base .card {
+    box-shadow: 10px 24px 30px rgba(138, 138, 138, 0.02);
+    border-radius: 4px;
+    border: 0;
+}
+
+.card-base .card .card-body {
+    padding: 24px !important;
+}

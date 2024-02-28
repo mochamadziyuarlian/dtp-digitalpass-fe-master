@@ -1,0 +1,25 @@
+<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="56" cy="59.2941" rx="56" ry="52.7059" fill="#D9DDE3"/>
+<mask id="mask0_1221_59610" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="6" width="112" height="106">
+<ellipse cx="56" cy="59.2941" rx="56" ry="52.7059" fill="url(#paint0_radial_1221_59610)"/>
+</mask>
+<g mask="url(#mask0_1221_59610)">
+<rect x="18.6673" y="38.6515" width="74.6667" height="87.8431" rx="6.79241" fill="#FBFBFC"/>
+<rect x="28" y="47.4366" width="18.6667" height="5.27059" rx="2.63529" fill="#B1B5BA"/>
+<rect x="28" y="56.2209" width="56" height="3.51373" rx="1.75686" fill="#EEEEEE"/>
+<rect x="28" y="66.7603" width="18.6667" height="5.27059" rx="2.63529" fill="#B1B5BA"/>
+<rect x="28" y="75.5438" width="56" height="3.51373" rx="1.75686" fill="#EEEEEE"/>
+<rect x="28" y="86.0862" width="18.6667" height="5.27059" rx="2.63529" fill="#B1B5BA"/>
+<rect x="28" y="94.8705" width="56" height="3.51373" rx="1.75686" fill="#EEEEEE"/>
+<rect x="28" y="105.412" width="18.6667" height="5.27059" rx="2.63529" fill="#B1B5BA"/>
+</g>
+<rect x="18.6674" width="74.6667" height="29.8667" rx="6.79241" fill="#8C8F93"/>
+<rect x="28.0001" y="8.78406" width="18.6667" height="5.27059" rx="2.63529" fill="#B1B5BA"/>
+<rect x="28.0001" y="17.5704" width="56" height="3.51373" rx="1.75686" fill="#EEEEEE"/>
+<defs>
+<radialGradient id="paint0_radial_1221_59610" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(56 6.58826) rotate(90) scale(105.412 120.605)">
+<stop stop-color="#F9EEE4"/>
+<stop offset="1" stop-color="#E3D1BC"/>
+</radialGradient>
+</defs>
+</svg>

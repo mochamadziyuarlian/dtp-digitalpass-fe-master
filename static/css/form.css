@@ -1,0 +1,208 @@
+.form-group {
+    margin-bottom: 24px;
+}
+
+.form-dsa label {
+    font-weight: 600;
+    font-size: 18px;
+    color: #3B3D39;
+}
+
+.form-dsa span.required {
+    font-size: 18px;
+    color: #ED2B24;
+}
+
+.form-dsa .form-control {
+    height: 56px;
+    background: #FFFFFF;
+    box-shadow: 10px 24px 30px rgba(138, 138, 138, 0.02);
+    border-radius: 4px;
+    border: 0px;
+}
+
+.form-dsa .form-control.filter {
+    height: 48px !important;
+}
+
+.form-dsa .input-group .input-group-text {
+    background-color: white;
+    border: 0;
+    padding-right: 0;
+}
+
+.form-dsa .input-group .input-group-text.right {
+    background-color: white;
+    border: 0;
+    padding-right: 0.75rem;
+}
+
+/* If error */
+.form-dsa .form-control.is-invalid {
+    border: 1px solid #FE6965 !important;
+    box-shadow: unset !important;
+}
+
+.form-dsa .invalid-feedback span {
+    font-size: 14px;
+    color: #FE6965 !important;
+}
+
+/* If error */
+
+/* Placeholder */
+.form-dsa input::-webkit-input-placeholder {
+    font-weight: normal !important;
+    font-size: 16px !important;
+    color: #7F817D !important;
+}
+
+.form-dsa input:-ms-input-placeholder {
+    font-weight: normal !important;
+    font-size: 16px !important;
+    color: #7F817D !important;
+}
+
+.form-dsa input::placeholder {
+    font-weight: normal !important;
+    font-size: 16px !important;
+    color: #7F817D !important;
+}
+
+/* Placeholder */
+
+/* Radio Checkbox */
+input[type='radio'] {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #3B3D39;
+    border-radius: 50%;
+    outline: none;
+
+    cursor: pointer;
+}
+
+input[type='radio']:checked:before {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 4px solid #ED2B24;
+    border-radius: 50%;
+    outline: none;
+
+    top: 3px;
+    left: 0;
+    position: absolute;
+}
+
+input[type='radio']:before {
+    content: '';
+    display: block;
+    border-radius: 50%;
+}
+
+input[type='radio']:hover {
+    border: 2px solid #ED2B24;
+}
+
+.form-dsa .form-check label {
+    font-size: 16px;
+    color: #3B3D39;
+}
+
+.btn.btn-lg {
+    height: 48px;
+}
+
+form .btn.btn-lg {
+    height: 48px;
+    width: 120px;
+}
+
+
+/* Upload Image */
+.form-dsa .form-control-image {
+    height: 56px;
+    background: #FFFFFF;
+    border: 1px dashed #7F817D;
+    box-sizing: border-box;
+    box-shadow: 10px 24px 30px rgba(138, 138, 138, 0.02);
+    border-radius: 4px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.form-dsa .form-control-image img {
+    margin-right: 23px;
+}
+
+.form-dsa .notes-upload {
+    font-size: 16px;
+    font-weight: 400;
+    color: #7F817D;
+}
+
+/* Upload Image */
+
+
+/* Preview Image */
+.form-dsa .preview-image {
+    width: 358px;
+    height: auto;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+    border: 0 !important;
+}
+
+.form-dsa .preview-image img {
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+
+    border-radius: 4px !important;
+}
+
+/* Preview Image */
+
+/* Preview File */
+.form-dsa .preview-file {
+    width: 358px;
+    height: auto;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+    border: 0 !important;
+}
+
+.form-dsa .preview-file iframe {
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+
+    border-radius: 4px !important;
+}
+
+/* Preview File */
+
+
+/* Disabled if click button */
+/* .btn:focus {
+    border: 0 !important;
+    box-shadow: unset !important;
+} */
+
+/* Disabled if click button */
+
+
+/* remove eyes in input type password (IE & Microsoft Edge) */
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+    display: none !important;
+}
+
+/* remove eyes in input type password (IE & Microsoft Edge) */

@@ -1,0 +1,43 @@
+.file-lampiran {
+    margin-bottom: 16px;
+}
+
+.list-file-lampiran {
+    background-color: #FFFFFF;
+    border: 1px solid #F2F4F6;
+    border-radius: 8px;
+    padding: 14px 16px;
+}
+
+.list-file-lampiran .file-name {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 14px;
+    color: #151718;
+
+    margin-bottom: 0;
+}
+
+.list-file-lampiran .file-size {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 12px;
+    color: #8C8F93;
+}
+
+.list-file-lampiran /deep/ .file-progress {
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.list-file-lampiran /deep/ .file-progress .progress {
+    height: 6px !important;
+    background: #F2F4F6;
+    border-radius: 100px;
+}
+
+.list-file-lampiran /deep/ .file-progress .progress-bar {
+    height: 6px !important;
+    background: #52BD94;
+    border-radius: 100px;
+}

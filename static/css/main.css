@@ -1,0 +1,19 @@
+/* Scroll  */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7F817D;
+    border-radius: 19px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #646662;
+}
+
+.cursor-pointer p,
+.cursor-pointer label,
+.cursor-pointer span {
+    cursor: pointer;
+}

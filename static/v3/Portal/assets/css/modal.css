@@ -1,0 +1,57 @@
+.modal-v3-dsa .modal-content {
+    border-radius: 0;
+    border: 0;
+}
+
+.modal-v3-dsa .modal-body {
+    padding: 0;
+    padding-bottom: 40px;
+}
+
+.modal-v3-dsa .modal-body .title {
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #3B3D39;
+    
+    margin-bottom: 24px;
+}
+
+.modal-v3-dsa .modal-body .desc {
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #3B3D39;
+}
+
+.modal-v3-dsa .modal-body .btn-v3-outline-dsa-primary {
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 16px;
+    color: #E42313;
+
+    width: 120px;
+    height: 48px;
+    margin-right: 8px;
+}
+
+.modal-v3-dsa .modal-body .btn-v3-dsa-primary {
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 16px;
+    color: #ffffff;
+
+    width: 120px;
+    height: 48px;
+    margin-left: 8px;
+}
+
+.modal-v3-dsa .modal-body .section-information {
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+
+
+.modal-v3-dsa .modal-body .section-button {
+
+}

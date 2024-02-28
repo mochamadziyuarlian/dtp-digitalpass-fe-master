@@ -1,0 +1,33 @@
+{
+    "mode": "development",
+    "name": "DigitalPass",
+    "info": "DigitalPass",
+    "description": "",
+    "version": "1.0.0",
+    "config": {
+        "development": {
+            "base_url": "https://dtp-digitalpass-be-stage.digitalpass.id",
+            "base_url_sf": "https://api-sf-dev.digitalpass.id",
+            "base_url_ido": "https://api-sf-dev.digitalpass.id",
+            "GA": "G-HRCRBT928Y",
+            "GTM": "GTM-W7XW3BG",
+            "minio": "http://minio-img-server-dtp-dsa-dev.vsan-apps.playcourt.id"
+        },
+        "production": {
+            "base_url": "https://dtp-digitalpass-be-production.digitalpass.id",
+            "base_url_sf": "https://api-sf-dev.digitalpass.id",
+            "base_url_ido": "https://api-sf.digitalpass.id",
+            "GA": "G-HRCRBT928Y",
+            "GTM": "GTM-W7XW3BG",
+            "minio": "https://minio.digitalpass.id"
+        },
+        "stagging": {
+            "base_url": "https://dtp-digitalpass-be-stage.digitalpass.id",
+            "base_url_ido": "http://dtp-dsa-be-sf-dtp-dsa-stage.stage-apps.playcourt.id",
+            "base_url_sf": "https://api-sf-dev.digitalpass.id",
+            "GA": "G-HRCRBT928Y",
+            "GTM": "GTM-W7XW3BG",
+            "minio": "http://minio-img-server-dtp-dsa-dev.vsan-apps.playcourt.id"
+        }
+    }
+}

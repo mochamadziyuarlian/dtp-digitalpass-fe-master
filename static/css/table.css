@@ -1,0 +1,55 @@
+.table-responsive {
+    overflow-y: hidden;
+}
+
+.table thead th {
+    background: #3B3D39 !important;
+
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.table tbody td {
+    font-weight: normal !important;
+    font-size: 16px;
+    color: #3B3D39;
+}
+
+/* Pagination */
+#Pagination #Showing .pagination-info {
+    font-weight: normal;
+    font-size: 16px;
+    color: #7F8C93;
+}
+
+#Pagination #Trigger ul li {
+    margin: 0 8px 0 8px;
+}
+
+#Pagination #Trigger ul li button {
+    box-shadow: 10px 24px 30px rgba(138, 138, 138, 0.02);
+    border-radius: 4px;
+    border: 1px solid #F4F4F4;
+}
+
+#Pagination #Trigger ul li span[role='menuitem'],
+#Pagination #Trigger ul li[role='separator'] span {
+    box-shadow: 10px 24px 30px rgba(138, 138, 138, 0.02);
+    border-radius: 4px;
+    border: 1px solid #F4F4F4;
+
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+}
+
+#Pagination #Trigger .pagination-button {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+#Pagination #Trigger .page-item.active .page-link {
+    color: #FFFFFF;
+    background: #ED2B24 !important;
+}

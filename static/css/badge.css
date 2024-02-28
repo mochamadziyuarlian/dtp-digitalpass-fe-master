@@ -1,0 +1,20 @@
+.badge {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+
+    /* width: 180px; */
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.badge-dsa-warning {
+    background-color: #FFFFF6;
+    color: #FCCE8A;
+}
+
+.badge-dsa-success {
+    background-color: #E0FFD1;
+    color: #83BE62;
+}

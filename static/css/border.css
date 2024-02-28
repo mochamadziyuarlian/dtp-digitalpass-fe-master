@@ -1,0 +1,25 @@
+.border-dsa {
+    border: 1px solid #F4F4F4 !important;
+}
+
+.border-dsa-top {
+    border-bottom: 1px solid #F4F4F4 !important;
+}
+
+.border-dsa-right {
+    border-right: 1px solid #F4F4F4 !important;
+}
+
+.border-dsa-bottom {
+    border-bottom: 1px solid #F4F4F4 !important;
+}
+
+.border-dsa-left {
+    border-left: 1px solid #F4F4F4 !important;
+}
+
+
+
+.border-dsa-success {
+    border: 1px solid #76B852 !important;
+}

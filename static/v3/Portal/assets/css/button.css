@@ -1,0 +1,196 @@
+.v3 .btn {
+    border-radius: 8px;
+    padding: 12px 18px;
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.v3 button:disabled {
+    cursor: not-allowed;
+}
+
+/* ============================= Button Primary ============================= */
+.btn-v3-dsa-primary {
+    color: #ffffff;
+    background-color: var(--color-button-primary-default);
+    border-color: var(--color-button-primary-default);
+}
+
+.btn-v3-dsa-primary:active,
+.btn-v3-dsa-primary.active,
+.open .dropdown-toggle.btn-v3-dsa-primary {
+    color: #ffffff;
+    background-color: var(--color-button-primary-pressed);
+    border-color: var(--color-button-primary-pressed);
+}
+
+.btn-v3-dsa-primary:focus {
+    color: #ffffff;
+    background-color: var(--color-button-primary-pressed);
+    border-color: var(--color-button-primary-pressed);
+    box-shadow: 0 0 0 0.2rem var(--color-button-primary-pressed-outline);
+}
+
+.btn-v3-dsa-primary:hover {
+    color: #ffffff;
+    background-color: var(--color-button-primary-hover);
+    border-color: var(--color-button-primary-hover);
+}
+
+.btn-v3-dsa-primary:active,
+.btn-v3-dsa-primary.active,
+.open .dropdown-toggle.btn-v3-dsa-primary {
+    background-image: none;
+}
+
+.btn-v3-dsa-primary.disabled,
+.btn-v3-dsa-primary[disabled],
+fieldset[disabled] .btn-v3-dsa-primary,
+.btn-v3-dsa-primary.disabled:hover,
+.btn-v3-dsa-primary[disabled]:hover,
+fieldset[disabled] .btn-v3-dsa-primary:hover,
+.btn-v3-dsa-primary.disabled:focus,
+.btn-v3-dsa-primary[disabled]:focus,
+fieldset[disabled] .btn-v3-dsa-primary:focus,
+.btn-v3-dsa-primary.disabled:active,
+.btn-v3-dsa-primary[disabled]:active,
+fieldset[disabled] .btn-v3-dsa-primary:active,
+.btn-v3-dsa-primary.disabled.active,
+.btn-v3-dsa-primary[disabled].active,
+fieldset[disabled] .btn-v3-dsa-primary.active {
+    background-color: var(--color-button-primary-disabled);
+    border-color: var(--color-button-primary-disabled);
+}
+
+.btn-v3-dsa-primary .badge {
+    color: var(--color-button-primary-default);
+    background-color: #ffffff;
+}
+
+/* ============================= Button Primary ============================= */
+
+
+/* ============================= Button Secondary ============================= */
+.btn-v3-dsa-secondary {
+    color: #ffffff;
+    background-color: var(--color-button-secondary-default);
+    border-color: var(--color-button-secondary-default);
+}
+
+.btn-v3-dsa-secondary:active,
+.btn-v3-dsa-secondary.active,
+.open .dropdown-toggle.btn-v3-dsa-secondary {
+    color: #ffffff;
+    background-color: var(--color-button-secondary-pressed);
+    border-color: var(--color-button-secondary-pressed);
+}
+
+.btn-v3-dsa-secondary:focus {
+    color: #ffffff;
+    background-color: var(--color-button-secondary-pressed);
+    border-color: var(--color-button-secondary-pressed);
+    box-shadow: 0 0 0 0.2rem var(--color-button-secondary-pressed-outline);
+}
+
+.btn-v3-dsa-secondary:hover {
+    color: #ffffff;
+    background-color: var(--color-button-secondary-hover);
+    border-color: var(--color-button-secondary-hover);
+}
+
+.btn-v3-dsa-secondary:active,
+.btn-v3-dsa-secondary.active,
+.open .dropdown-toggle.btn-v3-dsa-secondary {
+    background-image: none;
+}
+
+.btn-v3-dsa-secondary.disabled,
+.btn-v3-dsa-secondary[disabled],
+fieldset[disabled] .btn-v3-dsa-secondary,
+.btn-v3-dsa-secondary.disabled:hover,
+.btn-v3-dsa-secondary[disabled]:hover,
+fieldset[disabled] .btn-v3-dsa-secondary:hover,
+.btn-v3-dsa-secondary.disabled:focus,
+.btn-v3-dsa-secondary[disabled]:focus,
+fieldset[disabled] .btn-v3-dsa-secondary:focus,
+.btn-v3-dsa-secondary.disabled:active,
+.btn-v3-dsa-secondary[disabled]:active,
+fieldset[disabled] .btn-v3-dsa-secondary:active,
+.btn-v3-dsa-secondary.disabled.active,
+.btn-v3-dsa-secondary[disabled].active,
+fieldset[disabled] .btn-v3-dsa-secondary.active {
+    background-color: var(--color-button-secondary-disabled);
+    border-color: var(--color-button-secondary-disabled);
+}
+
+.btn-v3-dsa-secondary .badge {
+    color: var(--color-button-secondary-default);
+    background-color: #ffffff;
+}
+
+/* ============================= Button Secondary ============================= */
+
+
+/* ============================= Button Outline Primary ============================= */
+.btn-v3-outline-dsa-primary {
+    color: #E42313;
+    background-color: var(--color-button-outline-primary-default);
+    border-color: #E42313;
+}
+
+.btn-v3-outline-dsa-primary:active,
+.btn-v3-outline-dsa-primary.active,
+.open .dropdown-toggle.btn-v3-outline-dsa-primary {
+    color: #ffffff !important;
+    background-color: var(--color-button-outline-primary-pressed);
+    border-color: var(--color-button-outline-primary-pressed);
+}
+
+.btn-v3-outline-dsa-primary:focus {
+    color: #ffffff !important;
+    background-color: var(--color-button-outline-primary-pressed);
+    border-color: var(--color-button-outline-primary-pressed);
+    box-shadow: 0 0 0 0.2rem var(--color-button-outline-primary-pressed-outline);
+}
+
+.btn-v3-outline-dsa-primary:hover {
+    color: #ffffff !important;
+    background-color: var(--color-button-outline-primary-hover);
+    border-color: var(--color-button-outline-primary-hover);
+}
+
+.btn-v3-outline-dsa-primary:active,
+.btn-v3-outline-dsa-primary.active,
+.open .dropdown-toggle.btn-v3-outline-dsa-primary {
+    background-image: none;
+}
+
+.btn-v3-outline-dsa-primary.disabled,
+.btn-v3-outline-dsa-primary[disabled],
+fieldset[disabled] .btn-v3-outline-dsa-primary,
+.btn-v3-outline-dsa-primary.disabled:hover,
+.btn-v3-outline-dsa-primary[disabled]:hover,
+fieldset[disabled] .btn-v3-outline-dsa-primary:hover,
+.btn-v3-outline-dsa-primary.disabled:focus,
+.btn-v3-outline-dsa-primary[disabled]:focus,
+fieldset[disabled] .btn-v3-outline-dsa-primary:focus,
+.btn-v3-outline-dsa-primary.disabled:active,
+.btn-v3-outline-dsa-primary[disabled]:active,
+fieldset[disabled] .btn-v3-outline-dsa-primary:active,
+.btn-v3-outline-dsa-primary.disabled.active,
+.btn-v3-outline-dsa-primary[disabled].active,
+fieldset[disabled] .btn-v3-outline-dsa-primary.active {
+    background-color: var(--color-button-outline-primary-disabled);
+    border-color: var(--color-button-outline-primary-disabled) !important;
+    color: #ffffff !important;
+}
+
+.btn-v3-outline-dsa-primary .badge {
+    color: var(--color-button-outline-primary-default);
+    background-color: #ffffff !important;
+}
+
+/* ============================= Button Outline Primary ============================= */

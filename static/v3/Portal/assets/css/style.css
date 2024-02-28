@@ -1,0 +1,30 @@
+:root {
+    --color-tertiary-80: #2E3032;
+    --color-primary-50: #E42313;
+
+    --color-button-primary-default: #E42313;
+    --color-button-primary-pressed: #A40917;
+    --color-button-primary-pressed-outline: #F4CACA;
+    --color-button-primary-hover: #C40D0E;
+    --color-button-primary-disabled: #D9DDE3;
+
+    --color-button-secondary-default: #F9E4E4;
+    --color-button-secondary-pressed: #F9E4E4;
+    --color-button-secondary-pressed-outline: #EEAFAF;
+    --color-button-secondary-hover: #F4CACA;
+    --color-button-secondary-disabled: #D9DDE3;
+
+    --color-button-outline-primary-default: #FFFFFF;
+    --color-button-outline-primary-pressed: #A40917;
+    --color-button-outline-primary-pressed-outline: #F4CACA;
+    --color-button-outline-primary-hover: #C40D0E;
+    --color-button-outline-primary-disabled: #D9DDE3;
+}
+
+hr.v3 {
+    border: 1px solid #C8CCD2;
+}
+
+.v3 label {
+    margin-bottom: 0 !important;
+}

@@ -1,0 +1,127 @@
+
+
+.v3 .table thead th {
+    font-family: 'Nunito Sans' !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    color: #2D2F30 !important;
+    background-color: #F2F4F6 !important;
+    padding: 18px 13px 18px 22px !important;
+}
+
+.v3 .table tbody td {
+    font-family: 'Poppins' !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    color: #2D2F30 !important;
+    background-color: #FFFFFF !important;
+    padding: 18px 13px 18px 22px !important;
+}
+
+.v3 .table tbody .btn-v3-dsa-primary {
+    font-family: 'Poppins' !important;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    border-radius: 8px;
+}
+
+.v3 .no-data {
+    width: 100%;
+    height: 700px;
+    background: #F2F4F6;
+    border-radius: 8px;
+}
+
+.v3 .no-data .title {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    color: #2E3032;
+    margin-bottom: 24px;
+}
+
+.v3 .no-data .sub-title {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    color: #8C8F93;
+    margin-bottom: 24px;
+}
+
+.v3 .no-data .title-ajukan-layanan {
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 18px;
+    color: #E42313;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+.v3 .badge-layanan {
+    font-family: 'Nunito Sans';
+    font-weight: 700;
+    font-size: 12px !important;
+    border-radius: 8px;
+    padding: 8px 10px;
+}
+
+.v3 .badge-layanan.tolak {
+    color: #BF2600;
+    background-color: #FFEBE6;
+    border: 0.5px solid #FFEBE6;
+}
+
+.v3 .badge-layanan.draft {
+    color: #8C8F93;
+    background-color: #F2F4F6;
+    border: 0.5px solid #F2F4F6;
+}
+
+.v3 .badge-layanan.selesai {
+    color: #52BD94;
+    background-color: #EEF8F4;
+    border: 0.5px solid #EEF8F4;
+}
+
+.v3 .badge-layanan.proses {
+    color: #FF6121;
+    background-color: #FFEFE9;
+    border: 0.5px solid #FFEFE9;
+}
+
+.v3 .pagination .pagination-showing {
+    font-family: 'Nunito Sans' !important;
+    font-weight: 600;
+    font-size: 16px !important;
+    color: #151718 !important;
+}
+
+.v3 .b-pagination {
+    margin-bottom: 0 !important;
+}
+
+.v3 .b-pagination .page-item {
+    margin-left: 6px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.v3 .b-pagination .page-item .page-link {
+    border: 1px solid #D9DDE3 !important;
+    border-radius: 4px !important;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.v3 .b-pagination .page-item.active .page-link {
+    background-color: #ED2B24;
+    border: 1px solid #ED2B24 !important;
+}
+
+.v3 .redirect-link {
+    color: #D7281E !important;
+    font-weight: 700 !important;
+}

@@ -1,0 +1,51 @@
+<svg width="596" height="80" viewBox="0 0 596 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3317_21113)">
+<rect width="80" height="80" fill="#FFB703"/>
+<path d="M40 40L80 0V80L40 40Z" fill="white"/>
+<path d="M40 40L80 80L-9.37785e-06 80L40 40Z" fill="white"/>
+<path d="M40 40L0 0V80L40 40Z" fill="white"/>
+<path d="M40 40L80 0L-5.88094e-06 -3.49691e-06L40 40Z" fill="white"/>
+<path d="M40 80C40 57.9086 57.9086 40 80 40V80H40Z" fill="#FF6121"/>
+</g>
+<g clip-path="url(#clip1_3317_21113)">
+<rect width="80" height="80" transform="translate(80)" fill="#8ECAE6"/>
+<path d="M120 40L160 0V80L120 40Z" fill="white"/>
+<path d="M120 40L160 80L80 80L120 40Z" fill="white"/>
+<path d="M120 40L80 0V80L120 40Z" fill="white"/>
+<path d="M120 40L160 0L80 -3.49691e-06L120 40Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M120 0H80C80 44.1828 115.817 80 160 80V40C137.909 40 120 22.0914 120 0Z" fill="#E42313"/>
+</g>
+<g clip-path="url(#clip2_3317_21113)">
+<rect width="80" height="80" transform="translate(160)" fill="#8ECAE6"/>
+<path d="M200 40L240 0V80L200 40Z" fill="#FF6121"/>
+<path d="M200 40L240 80L160 80L200 40Z" fill="white"/>
+<path d="M200 40L160 0V80L200 40Z" fill="white"/>
+<path d="M200 40L240 0L160 -3.49691e-06L200 40Z" fill="white"/>
+<path d="M160 40C182.091 40 200 57.9086 200 80H160V40Z" fill="#FF6121"/>
+</g>
+<g clip-path="url(#clip3_3317_21113)">
+<rect width="80" height="80" transform="translate(240)" fill="#FB8500"/>
+<path d="M280 40L320 0V80L280 40Z" fill="white"/>
+<path d="M280 40L320 80L240 80L280 40Z" fill="white"/>
+<path d="M280 40L240 0V80L280 40Z" fill="white"/>
+<path d="M280 40L320 0L240 -3.49691e-06L280 40Z" fill="white"/>
+<rect x="256" y="16" width="16" height="16" rx="8" fill="#FFB703"/>
+<rect x="256" y="48" width="16" height="16" rx="8" fill="#FFB703"/>
+<rect x="288" y="16" width="16" height="16" rx="8" fill="#FFB703"/>
+<rect x="288" y="48" width="16" height="16" rx="8" fill="#FFB703"/>
+</g>
+<defs>
+<clipPath id="clip0_3317_21113">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+<clipPath id="clip1_3317_21113">
+<rect width="80" height="80" fill="white" transform="translate(80)"/>
+</clipPath>
+<clipPath id="clip2_3317_21113">
+<rect width="80" height="80" fill="white" transform="translate(160)"/>
+</clipPath>
+<clipPath id="clip3_3317_21113">
+<rect width="80" height="80" fill="white" transform="translate(240)"/>
+</clipPath>
+</defs>
+</svg>

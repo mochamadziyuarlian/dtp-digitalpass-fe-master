@@ -1,0 +1,936 @@
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* DASHBOARD PAGE */
+
+
+.costum-container {
+    padding-left: 11.9rem;
+    padding-right: 11.9rem;
+}
+
+.costum-container-footer {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 1rem;
+}
+
+.bg-part-1 {
+    background-color: white !important;
+}
+
+.bg-part-2 {
+    background-color: #FBFBFB !important;
+}
+
+.bg-part-3 {
+    background-color: #F8F8F8 !important;
+}
+
+.bg-part-4 {
+    background-color: #F5F5F5 !important;
+}
+
+/* About Us */
+.about-us {
+    padding-top: 7.5rem;
+}
+
+.about-us-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #1D1E1C;
+}
+
+.about-us-subs-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #656664;
+}
+
+.about-us-image {
+    width: 278px;
+    max-width: 278px;
+    height: 278px;
+    max-height: 278px;
+    background: linear-gradient(0deg, rgba(255, 254, 254, 0.17), rgba(255, 254, 254, 0.17));
+    border-radius: 10px;
+}
+
+.section-right {
+    padding-top: 3.8rem;
+    padding-left: 2.8rem;
+}
+
+/* About Us */
+
+/* Why choose us */
+.why-choose-us-top-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #1D1E1C;
+}
+
+.why-choose-us-image {
+    border-radius: 100%;
+    width: 76px;
+    height: 76px;
+}
+
+.why-choose-us-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1D1E1C;
+}
+
+.why-choose-us-subs-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #656664;
+}
+
+.why-choose-us {
+    padding-top: 4rem;
+}
+
+.why-choose-us-card {
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.why-choose-us-card-body {
+    padding-top: 1rem;
+}
+
+/* Why choose us */
+
+/* Our Services */
+.our-services-top-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #1D1E1C;
+}
+
+.our-services-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1D1E1C;
+}
+
+.our-services-subs-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #1D1E1C;
+}
+
+.our-services-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #DE1B1B;
+}
+
+.our-services-card {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.our-services {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.our-services-section-right {
+    padding-top: 0.7rem;
+}
+
+.our-services-card:hover {
+    background: #FBFBFB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.our-services-image {
+    width: 192px;
+    max-width: 192px;
+    height: 170px;
+    max-height: 170px;
+}
+
+/* Our Services */
+
+
+/* Products Under Testing */
+.products-under-testing-top-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #1D1E1C;
+}
+
+.products-under-testing-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #A0A0A0;
+}
+
+.products-under-testing-subs-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #1D1E1C;
+}
+
+.products-under-testing-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: #ED2B24;
+}
+
+.products-under-testing {
+    padding-top: 2.5rem;
+}
+
+.products-under-testing-card {
+    padding-top: 2rem;
+}
+
+.products-under-testing-card .card {
+    padding: 0.8rem;
+    border-radius: 8px;
+}
+
+.products-under-testing-card .card:hover {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Products Under Testing */
+
+/* Heuristic Testing */
+.heuristic-testing {
+    padding-top: 2.3rem;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-bottom: 2.3rem;
+}
+
+.heuristic-testing-top-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000000;
+}
+
+.heuristic-testing-button {
+    width: 99px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #1D1E1C;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #1D1E1C;
+    border-radius: 4px;
+}
+
+.heuristic-testing-search {
+    background: #FFFFFF;
+    border: 0.75px solid #D6D7D6;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 176px;
+    height: 28px;
+}
+
+.heuristic-testing-card {
+    padding-top: 1rem;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.heuristic-testing-card>.card {
+    height: 30rem;
+    max-height: 30rem;
+    overflow: auto;
+}
+
+/* Heuristic Testing */
+
+/* Our Agenda */
+.our-agenda-top-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #1D1E1C;
+}
+
+.our-agenda-card {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+}
+
+.our-agenda {
+    padding-top: 2.35rem;
+    padding-bottom: 2.35rem;
+}
+
+.our-agenda-event-date {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+}
+
+.our-agenda-event-bg {
+    background: #F4F4F4;
+    border-radius: 4px;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+.our-agenda-event-name {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #000000;
+}
+
+.our-agenda-event-empty-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #656664;
+}
+
+.our-agenda-event-empty {
+    text-align: center;
+    margin-top: 7rem;
+}
+
+.our-agenda-event-card {
+    height: 21.25rem;
+}
+
+/* Our Agenda */
+
+
+/* DASHBOARD PAGE */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* OUR SERVICES PAGE */
+
+
+/* Heuristic Evaluation */
+.heuristic-evaluation-page {
+    background-color: white;
+}
+
+.heuristic-evaluation-page .section-information {
+    padding-left: 16.2rem;
+    padding-right: 16.2rem;
+    padding-top: 3rem;
+}
+
+.heuristic-evaluation-page .section-information .title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #1D1E1C;
+}
+
+.heuristic-evaluation-page .section-information .description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #1D1E1C;
+}
+
+.heuristic-evaluation-page ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.heuristic-evaluation-page ul>li {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 2rem;
+    color: #1D1E1C;
+}
+
+.heuristic-evaluation-page .section-step {
+    padding-left: 14rem;
+    padding-right: 14rem;
+    padding-top: 7.8rem;
+}
+
+.heuristic-evaluation-page .section-step-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #1D1E1C;
+}
+
+.heuristic-evaluation-page .section-button {
+    padding-top: 4rem;
+}
+
+.heuristic-evaluation-page .section-table {
+    padding-left: 12.4rem;
+    padding-right: 12.4rem;
+    padding-top: 6.7rem;
+    padding-bottom: 1.5rem;
+}
+
+/* Section Step */
+.heuristic-evaluation-page .steps .step {
+    display: block;
+    width: 100%;
+    margin-bottom: 35px;
+    text-align: center
+}
+
+.heuristic-evaluation-page .steps .step .step-icon-wrap {
+    display: block;
+    position: relative;
+    width: 95%;
+    height: 25px;
+    text-align: center
+}
+
+.heuristic-evaluation-page .steps .step .step-icon-wrap::before,
+.heuristic-evaluation-page .steps .step .step-icon-wrap::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    height: 3px;
+    margin-top: -1px;
+    background-color: #e1e7ec;
+    content: '';
+    z-index: 1
+}
+
+.heuristic-evaluation-page .steps .step .step-icon-wrap::before {
+    left: 0;
+    height: 1px;
+}
+
+.heuristic-evaluation-page .steps .step .step-icon-wrap::after {
+    right: 0;
+    height: 1px;
+}
+
+.heuristic-evaluation-page .steps .step .step-icon {
+    display: inline-block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border: 1px solid #e1e7ec;
+    border-radius: 50%;
+    background-color: #f5f5f5;
+    color: #374250;
+    font-size: 14px;
+    line-height: 25px;
+    z-index: 5
+}
+
+.heuristic-evaluation-page .steps .step .step-title {
+    margin-top: 16px;
+    margin-bottom: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: #1D1E1C;
+}
+
+.heuristic-evaluation-page .steps .step:first-child .step-icon-wrap::before {
+    display: none
+}
+
+.heuristic-evaluation-page .steps .step:last-child .step-icon-wrap::after {
+    display: none
+}
+
+.heuristic-evaluation-page .steps .step.completed .step-icon-wrap::before,
+.heuristic-evaluation-page .steps .step.completed .step-icon-wrap::after {
+    background-color: #D6D7D6;
+    height: 1px;
+}
+
+.heuristic-evaluation-page .steps .step.completed .step-icon {
+    border-color: #F5463F;
+    background-color: #F5463F;
+    color: #fff
+}
+
+@media (max-width: 576px) {
+
+    .heuristic-evaluation-page .flex-sm-nowrap .step .step-icon-wrap::before,
+    .heuristic-evaluation-page .flex-sm-nowrap .step .step-icon-wrap::after {
+        display: none
+    }
+}
+
+@media (max-width: 768px) {
+
+    .heuristic-evaluation-page .flex-md-nowrap .step .step-icon-wrap::before,
+    .heuristic-evaluation-page .flex-md-nowrap .step .step-icon-wrap::after {
+        display: none
+    }
+}
+
+@media (max-width: 991px) {
+
+    .heuristic-evaluation-page .flex-lg-nowrap .step .step-icon-wrap::before,
+    .heuristic-evaluation-page .flex-lg-nowrap .step .step-icon-wrap::after {
+        display: none
+    }
+}
+
+@media (max-width: 1200px) {
+
+    .heuristic-evaluation-page .flex-xl-nowrap .step .step-icon-wrap::before,
+    .heuristic-evaluation-page .flex-xl-nowrap .step .step-icon-wrap::after {
+        display: none
+    }
+}
+
+/* Section Step */
+
+
+/* Heuristic Evaluation */
+
+
+
+/* Submission Heuristic Evaluation */
+.submission-heuristic-evaluation-page .section-step-1,
+.section-step-2,
+.section-step-3 {
+    padding-left: 28.4rem;
+    padding-right: 28.4rem;
+    padding-top: 2.5rem;
+}
+
+.submission-heuristic-evaluation-page .heading-title {
+    padding-top: 3.5rem;
+    text-align: center;
+}
+
+.submission-heuristic-evaluation-page .section-step {
+    padding-left: 34rem;
+    padding-right: 34rem;
+    padding-top: 2rem;
+}
+
+.submission-heuristic-evaluation-page .section-button {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+/* Submission Heuristic Evaluation */
+
+
+
+/* OUR SERVICES PAGE */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+/* SERVICES PORTAL */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* SECTION SECURITY TESTING */
+.services-portal .security-testing .section-1 {
+    padding-top: 8.8rem;
+}
+
+.services-portal .security-testing .section-1 .right .lihat-selengkapnya {
+    padding-top: 2.4rem;
+}
+
+.services-portal .security-testing .section-1 .left button {
+    width: 350px;
+    height: 60px;
+    border-radius: 4.8px;
+    font-size: 20px;
+}
+
+.services-portal .security-testing .section-1 .left .section-1-additional {
+    padding-top: 4.3rem;
+}
+
+.services-portal .security-testing {
+    height: 40rem;
+    max-height: 40rem;
+}
+
+.services-portal .security-testing .section-1 .right .section-vector {
+    position: absolute;
+    left: 16.4rem;
+    top: -6.9rem;
+}
+
+.services-portal .security-testing .section-1 .left .section-vector {
+    position: absolute;
+    left: -10rem;
+    top: 3.4rem;
+}
+
+/* SECTION SECURITY TESTING */
+
+
+/* SECTION USABILITY TESTING */
+.services-portal .usability-testing .section-1 .left {
+    padding-top: 8rem;
+}
+
+.services-portal .usability-testing .section-1 .left {
+    padding-top: 8rem;
+}
+
+.services-portal .usability-testing .section-1 .right {
+    margin-left: -4rem;
+}
+
+.services-portal .usability-testing .section-1 .left .section-1-additional-1 {
+    padding-top: 2rem;
+}
+
+.services-portal .usability-testing .section-1 .left .section-1-additional-2 {
+    padding-top: 2.8rem;
+}
+
+.services-portal .usability-testing .section-1 .left .section-1-additional-2 button {
+    width: 255px;
+    height: 48px;
+    background: #ED2B24;
+    border-radius: 4.8px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.services-portal .usability-testing .section-1 .section-1-additional-3 {
+    justify-content: center;
+    padding-bottom: 2rem;
+    padding-top: 0.5rem;
+}
+
+/* SECTION USABILITY TESTING */
+
+.services-portal .section-2 .section-2-additional {
+    margin-top: -4.4rem;
+}
+
+.services-portal .section-3,
+.section-4 {
+    padding-top: 10.4rem;
+}
+
+
+.services-portal .section-3 .top-title h2 {
+    margin-top: 1.1rem;
+    margin-bottom: 2.4rem;
+}
+
+.services-portal .section-4 .section-4-main {
+    padding-top: 3.3rem;
+}
+
+.services-portal .section-4 button {
+    border: 1px solid #D6D7D6;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #7F817D;
+    font-size: 20px;
+}
+
+.section-5 {
+    padding-top: 6.5rem;
+}
+
+.document-requirement .left .section-5-additional-3 button {
+    width: 445px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.document-requirement .left .section-5-additional-2 {
+    padding-top: 1rem;
+}
+
+.document-requirement .left .section-5-additional-3 {
+    padding-top: 3rem;
+}
+
+.document-requirement .left {
+    height: 660px;
+    padding-left: 7.5rem;
+    padding-top: 5rem;
+    padding-right: 4rem;
+}
+
+.document-requirement .right {
+    height: 660px;
+    padding-right: 7.5rem;
+    padding-top: 5rem;
+    padding-left: 7.5rem;
+}
+
+.document-requirement .right .section-5-additional-1 label,
+.document-requirement .right .section-5-additional-2 label {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    color: #3B3D39;
+}
+
+.document-requirement .right .section-5-additional-1 ul,
+.document-requirement .right .section-5-additional-2 ul {
+    padding-left: 1.6rem;
+}
+
+.document-requirement .right .section-5-additional-1 li,
+.document-requirement .right .section-5-additional-2 li {
+    font-weight: bold;
+    font-size: 24px;
+    color: #656664;
+    line-height: 48px;
+}
+
+.document-requirement .right .section-5-additional-2 {
+    padding-top: 1.2rem;
+}
+
+.document-requirement .left img {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
+}
+
+.services-portal .section-6 {
+    padding-top: 4.8rem;
+    padding-bottom: 3.5rem;
+}
+
+.section-6 .right button {
+    color: #FFFFFF;
+    width: 350px;
+    height: 60px;
+    border-radius: 4.8px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.services-portal .section-6 .left {
+    padding-left: 7.5rem;
+}
+
+.services-portal .section-6 .right {
+    padding-left: 12rem;
+}
+
+.services-portal .section-2 .section-2-additional .card:hover {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+.proses-kami .left .card.selected {
+    background-color: #ED2B24 !important;
+}
+
+.proses-kami .left .card.selected button {
+    background-color: white !important;
+}
+
+.proses-kami .left .card.selected button>span {
+    color: #ED2B24 !important;
+}
+
+.proses-kami .left .card.selected h4 {
+    color: white !important;
+}
+
+.proses-kami .left .card.selected h6 {
+    color: white !important;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* SERVICES PORTAL */
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* DASHBOARD PORTAL */
+
+
+
+.max-size-about-us-1 {
+    max-width: 497.5px !important;
+    max-height: 336.75px !important;
+}
+
+.max-size-about-us-2 {
+    max-width: 485.47px !important;
+    max-height: 213.2px !important;
+}
+
+.max-size-about-us-3 {
+    max-width: 278.82px !important;
+    max-height: 214.3px !important;
+}
+
+.max-size-about-us-4 {
+    max-width: 568.57px !important;
+    max-height: 435.15px !important;
+}
+
+.max-size-our-services {
+    max-width: 730px !important;
+    max-height: 360px !important;
+}
+
+.max-size-testimonial {
+    width: 39px !important;
+    height: 39px !important;
+    max-width: 39px !important;
+    max-height: 39px !important;
+    box-sizing: border-box !important;
+    border-radius: 100% !important;
+}
+
+.max-size-about-us-5 {
+    max-width: 447px !important;
+    max-height: 587px !important;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* DASHBOARD PORTAL */
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* FOOTER COMPONENT */
+
+
+/* Footer */
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer .top-title {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1D1E1C;
+}
+
+footer .costum-container-footer .a,
+.span {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #1D1E1C;
+}
+
+footer .costum-container-footer .information-hours-work {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: #888888;
+}
+
+footer .footer-our-services {
+    padding-left: 3rem;
+}
+
+.footer-logo {
+    padding-left: 4rem;
+}
+
+.footer-section-top {
+    border-bottom: 1px solid #A4A4A4;
+}
+
+.footer-section-bottom {
+    text-align: center;
+}
+
+.footer-section-bottom-label {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+/* Footer */
+
+
+/* FOOTER COMPONENT */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.container-main {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.py-content {
+    padding-top: 8.5rem;
+    padding-bottom: 8.5rem;
+}
+.btn-lg-main {
+    width: 255px;
+    height: 60px;
+    border-radius: 4.8px;
+}
